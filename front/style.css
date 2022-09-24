@@ -1,0 +1,52 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: #BB99DD;
+    margin-top: 15px;
+    margin-bottom: 33px;
+}
+.imagem-cabecalho{
+    width: 297px;
+    height: 231px;
+    border-radius: 50%;
+}
+.links{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.links li{
+    width: 326px;
+    height: 49px;
+    padding: 20px;
+    margin-bottom: 16px;
+    list-style: none;
+    border: 2px solid #BB99DD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;
+}
+.icons{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.icons li{
+    list-style: none;
+    width: 22px;
+    height: 17.94px;
+    margin-right: 33px;
+}
+
